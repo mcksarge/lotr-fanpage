@@ -1,21 +1,12 @@
-import logo from './logo.svg';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <p>
-          The new Lord of the Rings app!
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+        <h1>
+          One Ring, Three Books
+        </h1>
       </header>
     </div>
   );
